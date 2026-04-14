@@ -32,11 +32,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=annanya111&theme=tokyonight)
 
----
-
-## 🏆 Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=annanya111&theme=onedark)
 
 ---
 
