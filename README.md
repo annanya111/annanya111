@@ -25,13 +25,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=flat&logo=databricks&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Annanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annanya111&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annanya111&layout=compact&theme=tokyonight)
 
 ---
 
