@@ -1,6 +1,10 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=annanya111&color=blue)
+
 # Hi, I'm Annanya! 👋
 
 🎓 Student | 💻 Aspiring Front-End Developer
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,9 +24,34 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-FF6F00?style=flat&logo=databricks&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Annanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=annanya111&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annanya111&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=annanya111&theme=tokyonight)
+
+---
+
+## 🏆 Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=annanya111&theme=onedark)
+
+---
+
 ## 🚀 What I'm Working On
 - Building responsive websites and interactive UIs
 - Learning React and modern front-end tools
 
+---
+
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/annanya-tiwari/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
