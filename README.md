@@ -42,8 +42,7 @@
 ---
 
 ## 🧩 LeetCode Progress
-![LeetCode](https://img.shields.io/badge/Problems%20Solved-123-FFA116?style=flat&logo=leetcode&logoColor=black)
-![Streak](https://img.shields.io/badge/Day%20Streak-110%20🔥-red?style=flat)
+![LeetCode Streak](https://leetcode-streak-stats.vercel.app/api?username=annanyatiwari)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-123%20Solved%20|%20110🔥Day%20Streak-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/annanyatiwari)
 
