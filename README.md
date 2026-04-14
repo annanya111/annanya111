@@ -43,8 +43,6 @@
 
 ## 🧩 LeetCode Progress
 
-![LeetCode Streak](https://leetcode-stats-api.herokuapp.com/user/annanyatiwari)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-123%20Solved%20|%20110🔥Day%20Streak-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/annanyatiwari)
 
 ---
