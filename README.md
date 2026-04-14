@@ -41,9 +41,11 @@
 
 ---
 
-## 🧩 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/annanyatiwari?theme=dark&font=Karma)
+## 🧩 LeetCode Progress
+![LeetCode](https://img.shields.io/badge/Problems%20Solved-123-FFA116?style=flat&logo=leetcode&logoColor=black)
+![Streak](https://img.shields.io/badge/Day%20Streak-110%20🔥-red?style=flat)
 
+🔗 [View my LeetCode Profile](https://leetcode.com/annanyatiwari)
 ---
 
 ## 📫 Connect With Me
