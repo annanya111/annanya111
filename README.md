@@ -1,5 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=annanya111&color=blue)
-
 # Hi, I'm Annanya! 👋
 
 🎓 Student | 💻 Aspiring Front-End Developer
